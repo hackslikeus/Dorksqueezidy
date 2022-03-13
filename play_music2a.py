@@ -19,7 +19,7 @@ web = True
 #location of the csv file in same folder otherwise direct
 #filename = "moodies.csv"
 filename = "/home/pi/dorksqueezidy/moodies.csv"
-filenameout= "/home/pi/dorsqueezidy/filenameout.csv"
+filenameout= "/home/pi/dorksqueezidy/filenameout.csv"
 
 # Initialize Flask.
 if web:
