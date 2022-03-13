@@ -1,7 +1,6 @@
 # Dorksqueezidy
 Just a webpage and python script to control Squeezelite players, play Internet Radio stations and monitor your pi using RPIMonitor as an addon.  you'll need to alter the html to point to your LMS server for Squeezelite players, and the local raspberry pi hostname.  You'll have to install RPI Monitor separately.
-
-![dorksqueezidy](https://user-images.githubusercontent.com/16979775/158045440-a7e93a65-2f28-4f58-9eb9-45340cdd684f.png)
+![dorksqueezidy](https://user-images.githubusercontent.com/16979775/158045493-f775ad8b-13e5-4e5c-b285-433523a530fa.png)
 
 Instructions : Download python file, index.html, and moodies.csv files. Create a folder on the server pi, ie. "dorksqueezidy", with a subdirectory for templates, (a flask thing) where the index.html bootstrap file should reside. The csv file will reside in the same folder as the python file. Note there is a reference or two in the python file to the html page, so rename at your risk, but not a big deal.
 
